@@ -10,6 +10,15 @@
     <itunes:summary>매일 새벽 카라가 골라 담는 오늘의 영어 클립. 원문 없이 맨귀로 3~4번 듣는다.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
-
+    <item>
+      <title>2026-08-22 · Advocates worry new bans on student IDs will trip up younger voters</title>
+      <description>[Elections] 미국 일부 공화당 주도 주에서 투표소 신분 확인 시 학생증 사용을 금지하는 법을 만들면서, 젊은 유권자의 투표권이 위축된다는 우려와 소송이 이어지고 있다. (3분 29초)</description>
+      <itunes:summary>[Elections] 미국 일부 공화당 주도 주에서 투표소 신분 확인 시 학생증 사용을 금지하는 법을 만들면서, 젊은 유권자의 투표권이 위축된다는 우려와 소송이 이어지고 있다. (3분 29초)</itunes:summary>
+      <pubDate>Sat, 22 Aug 2026 03:00:00 +0900</pubDate>
+      <guid isPermaLink="false">nx-s1-5791740</guid>
+      <enclosure url="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/08/20260818_atc_student_voter_id_bans.mp3" length="3357929" type="audio/mpeg"/>
+      <itunes:duration>209</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
